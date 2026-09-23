@@ -1,4 +1,4 @@
-#🍔 Food Delivery Analysis Dashboard (Egypt)
+🍔 Food Delivery Analysis Dashboard (Egypt)
 
 An interactive Power BI dashboard that analyzes food delivery operations across Egyptian restaurants. It brings revenue, delivery performance, driver availability, menu performance, and payment behavior into one view, filterable by city and traffic level.
 
